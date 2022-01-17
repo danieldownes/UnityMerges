@@ -215,7 +215,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 1
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
 --- !u!1 &263639675
 GameObject:
@@ -230,7 +230,7 @@ GameObject:
   - component: {fileID: 263639677}
   - component: {fileID: 263639676}
   m_Layer: 0
-  m_Name: Sphere
+  m_Name: Claires Sphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -600,7 +600,7 @@ GameObject:
   - component: {fileID: 1934065780}
   - component: {fileID: 1934065779}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: main Cube
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -675,12 +675,12 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1934065778}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -1.71, y: 0.55, z: 2.57}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -1.64, y: -0.89000005, z: 5.25}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 2
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &9139173026411084355
 PrefabInstance:
@@ -692,7 +692,7 @@ PrefabInstance:
     - target: {fileID: 9139173027210186500, guid: b2cc774921582df4a8f78aedacaceba4,
         type: 3}
       propertyPath: m_Name
-      value: Cylinder (1)
+      value: Cylinder To Nest
       objectReference: {fileID: 0}
     - target: {fileID: 9139173027210186504, guid: b2cc774921582df4a8f78aedacaceba4,
         type: 3}
