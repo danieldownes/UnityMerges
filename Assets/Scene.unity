@@ -230,7 +230,7 @@ GameObject:
   - component: {fileID: 263639677}
   - component: {fileID: 263639676}
   m_Layer: 0
-  m_Name: Sphere
+  m_Name: Claires Sphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
