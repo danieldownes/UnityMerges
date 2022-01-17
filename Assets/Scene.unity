@@ -230,7 +230,7 @@ GameObject:
   - component: {fileID: 263639677}
   - component: {fileID: 263639676}
   m_Layer: 0
-  m_Name: Sphere
+  m_Name: Claires Sphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -409,7 +409,7 @@ GameObject:
   - component: {fileID: 1470215496}
   - component: {fileID: 1470215500}
   m_Layer: 0
-  m_Name: Cylinder (1)
+  m_Name: Cylinder To nest
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
