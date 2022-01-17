@@ -1,2 +1,2 @@
 # UnityMerges
-Workshop relating to Unity related merge conflict
+Workshop relating to resolving Unity scene merge conflicts
